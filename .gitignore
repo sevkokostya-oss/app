@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+*.log
+.DS_Store
+.idea/
+.vscode/
+android_webview/.gradle/
+android_webview/app/build/
+android_webview/local.properties
+*.apk
+*.aab

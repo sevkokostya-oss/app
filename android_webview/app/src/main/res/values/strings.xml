@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Investment AI Agent</string>
+    <!-- ЗАМЕНИТЕ на URL после деплоя Streamlit Cloud -->
+    <string name="web_app_url">https://YOUR_APP.streamlit.app</string>
+</resources>
